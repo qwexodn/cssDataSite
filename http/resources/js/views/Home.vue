@@ -1,7 +1,9 @@
 <template>
     <div>
         <HeaderComponent></HeaderComponent>
-        <CssEditorComponent></CssEditorComponent>
+        <div class='body'>
+            <CssEditorComponent></CssEditorComponent>
+        </div>
     </div>
 </template>
 <script>

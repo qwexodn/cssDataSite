@@ -1780,6 +1780,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
@@ -17296,7 +17298,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".content[data-v-48057916] {\n  position: absolute;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n  margin: 10px;\n}\n.content textarea[data-v-48057916] {\n  width: 500px;\n  height: 500px;\n}\n.content .btn-group li[data-v-48057916] {\n  display: inline-block;\n  text-transform: uppercase;\n  cursor: pointer;\n  padding: 10px 0px;\n  width: 120px;\n  text-align: center;\n  background-color: rgba(0, 0, 0, 0.7);\n  margin-right: -6px;\n  border: 1px solid black;\n  border-right: none;\n  color: rgba(255, 255, 255, 0.7);\n  font-weight: 700;\n}\n.content .btn-group li[data-v-48057916]:first-child {\n  border-radius: 0.5em 0 0 0.5em;\n}\n.content .btn-group li[data-v-48057916]:last-child {\n  border-radius: 0 0.5em 0.5em 0;\n  border-right: 1px solid black;\n}\n.content .btn-group li[data-v-48057916]:hover {\n  color: rgba(255, 255, 255, 0.5);\n  background-color: rgba(0, 0, 0, 0.6);\n}\n.content .btn-group .show-on[data-v-48057916] {\n  color: #e6faff;\n}", ""]);
+exports.push([module.i, ".content[data-v-48057916] {\n  position: absolute;\n  left: 50%;\n  -webkit-transform: translateX(-50%);\n          transform: translateX(-50%);\n  margin: 10px;\n}\n.content textarea[data-v-48057916] {\n  width: 500px;\n  height: 500px;\n}\n.content .btn-group li[data-v-48057916] {\n  display: inline-block;\n  text-transform: uppercase;\n  cursor: pointer;\n  padding: 10px 0px;\n  width: 120px;\n  text-align: center;\n  background-color: rgba(0, 0, 0, 0.8);\n  margin-right: -6px;\n  border: 1px solid black;\n  border-right: none;\n  color: rgba(255, 255, 255, 0.7);\n  font-weight: 700;\n}\n.content .btn-group li[data-v-48057916]:first-child {\n  border-radius: 0.5em 0 0 0.5em;\n}\n.content .btn-group li[data-v-48057916]:last-child {\n  border-radius: 0 0.5em 0.5em 0;\n  border-right: 1px solid black;\n}\n.content .btn-group li[data-v-48057916]:hover {\n  color: rgba(255, 255, 255, 0.5);\n  background-color: rgba(0, 0, 0, 0.6);\n}\n.content .btn-group .show-on[data-v-48057916] {\n  color: #e6faff;\n}", ""]);
 
 // exports
 
@@ -17315,7 +17317,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".content[data-v-1f42fb90] {\n  width: 100%;\n  height: 50px;\n  position: relative;\n  box-shadow: 0 0.1px 3px 0.3px rgba(0, 0, 0, 0.2);\n  font-family: sans-serif;\n  background-color: #e6faff;\n}\n.content div[data-v-1f42fb90] {\n  display: inline-block;\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  color: rgba(103, 103, 103, 0.8);\n  padding: 10px;\n}\n.content div a[data-v-1f42fb90] {\n  text-decoration: none;\n  color: rgba(103, 103, 103, 0.8);\n}\n.content .logo[data-v-1f42fb90] {\n  left: 15px;\n  cursor: pointer;\n  font-weight: 900;\n}\n.content .page[data-v-1f42fb90] {\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.content .mobile-menu[data-v-1f42fb90] {\n  right: 15px;\n  cursor: pointer;\n}", ""]);
+exports.push([module.i, ".content[data-v-1f42fb90] {\n  width: 100%;\n  height: 50px;\n  position: relative;\n  box-shadow: 0 0.1px 3px 0.3px rgba(0, 0, 0, 0.2);\n  font-family: sans-serif;\n  background-color: rgba(0, 0, 0, 0.8);\n}\n.content div[data-v-1f42fb90] {\n  display: inline-block;\n  position: absolute;\n  top: 50%;\n  -webkit-transform: translateY(-50%);\n          transform: translateY(-50%);\n  color: rgba(255, 153, 0, 0.8);\n  padding: 10px;\n}\n.content div a[data-v-1f42fb90] {\n  text-decoration: none;\n  color: rgba(255, 153, 0, 0.8);\n}\n.content .logo[data-v-1f42fb90] {\n  left: 15px;\n  cursor: pointer;\n  font-weight: 900;\n}\n.content .page[data-v-1f42fb90] {\n  left: 50%;\n  -webkit-transform: translate(-50%, -50%);\n          transform: translate(-50%, -50%);\n}\n.content .mobile-menu[data-v-1f42fb90] {\n  right: 15px;\n  cursor: pointer;\n}", ""]);
 
 // exports
 
@@ -17334,7 +17336,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, "/* http://meyerweb.com/eric/tools/css/reset/ \n   v2.0 | 20110126\n   License: none (public domain)\n*/\nhtml, body, div, span, applet, object, iframe,\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\na, abbr, acronym, address, big, cite, code,\ndel, dfn, em, img, ins, kbd, q, s, samp,\nsmall, strike, strong, sub, sup, tt, var,\nb, u, i, center,\ndl, dt, dd, ol, ul, li,\nfieldset, form, label, legend,\ntable, caption, tbody, tfoot, thead, tr, th, td,\narticle, aside, canvas, details, embed,\nfigure, figcaption, footer, header, hgroup,\nmenu, nav, output, ruby, section, summary,\ntime, mark, audio, video {\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-size: 100%;\n  font: inherit;\n  vertical-align: baseline;\n}\n\n/* HTML5 display-role reset for older browsers */\narticle, aside, details, figcaption, figure,\nfooter, header, hgroup, menu, nav, section {\n  display: block;\n}\nbody {\n  line-height: 1;\n}\nol, ul {\n  list-style: none;\n}\nblockquote, q {\n  quotes: none;\n}\nblockquote:before, blockquote:after,\nq:before, q:after {\n  content: \"\";\n  content: none;\n}\ntable {\n  border-collapse: collapse;\n  border-spacing: 0;\n}", ""]);
+exports.push([module.i, "/* http://meyerweb.com/eric/tools/css/reset/ \n   v2.0 | 20110126\n   License: none (public domain)\n*/\nhtml, body, div, span, applet, object, iframe,\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\na, abbr, acronym, address, big, cite, code,\ndel, dfn, em, img, ins, kbd, q, s, samp,\nsmall, strike, strong, sub, sup, tt, var,\nb, u, i, center,\ndl, dt, dd, ol, ul, li,\nfieldset, form, label, legend,\ntable, caption, tbody, tfoot, thead, tr, th, td,\narticle, aside, canvas, details, embed,\nfigure, figcaption, footer, header, hgroup,\nmenu, nav, output, ruby, section, summary,\ntime, mark, audio, video {\n  margin: 0;\n  padding: 0;\n  border: 0;\n  font-size: 100%;\n  font: inherit;\n  vertical-align: baseline;\n}\n\n/* HTML5 display-role reset for older browsers */\narticle, aside, details, figcaption, figure,\nfooter, header, hgroup, menu, nav, section {\n  display: block;\n}\nbody {\n  line-height: 1;\n}\nol, ul {\n  list-style: none;\n}\nblockquote, q {\n  quotes: none;\n}\nblockquote:before, blockquote:after,\nq:before, q:after {\n  content: \"\";\n  content: none;\n}\ntable {\n  border-collapse: collapse;\n  border-spacing: 0;\n}\ntextarea {\n  background-color: rgba(0, 0, 0, 0.2);\n}\n.body {\n  background-color: rgba(0, 0, 0, 0.7);\n  min-height: 100vh;\n}", ""]);
 
 // exports
 
@@ -49070,7 +49072,11 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c(
     "div",
-    [_c("HeaderComponent"), _vm._v(" "), _c("CssEditorComponent")],
+    [
+      _c("HeaderComponent"),
+      _vm._v(" "),
+      _c("div", { staticClass: "body" }, [_c("CssEditorComponent")], 1)
+    ],
     1
   )
 }

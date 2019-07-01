@@ -51,7 +51,7 @@ export default {
             padding:10px 0px;
             width:120px;
             text-align:center;
-            background-color:rgba($color:#000000, $alpha:0.7);
+            background-color:$darkBackground;
             margin-right:-6px;
             border:1px solid black;
             border-right:none;
@@ -71,7 +71,7 @@ export default {
         }
 
         .show-on{
-            color:$headerBackground;
+            color:#e6faff;
         }
     }
 
