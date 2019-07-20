@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 
-@import './variables';
+@import './_variables';
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -50,9 +50,4 @@ table {
 }
 textarea{
 	background-color:rgba($color:#000000, $alpha:0.2);
-}
-
-.body{
-	background-color:rgba($color:#000000, $alpha:0.7);
-	min-height:100vh;
 }
